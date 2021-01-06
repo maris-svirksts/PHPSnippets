@@ -1,5 +1,5 @@
 <?php
-    class Difference {
+class Difference {
     private $elements = array();
     public $maximumDifference;
 
